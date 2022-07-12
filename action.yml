@@ -1,3 +1,4 @@
+//helmcode
 name: "Helm Chart Releaser"
 description: "Host a Helm charts repo on GitHub Pages"
 author: "The Helm authors"
